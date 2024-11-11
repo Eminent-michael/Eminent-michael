@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Afolabi Michael!
 
 I'm a passionate software developer and tech enthusiast. Currently working on diverse projects involving machine learning, cybersecurity, web development, and app design. Here’s a snapshot of my journey and skills:
 
