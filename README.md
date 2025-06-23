@@ -1,22 +1,33 @@
 # 👋 Hello, I'm Afolabi Michael!
 
-I'm a passionate software developer and tech enthusiast. Currently working on diverse projects involving machine learning, cybersecurity, web development, and app design. Here’s a snapshot of my journey and skills:
+I'm a passionate software developer and tech enthusiast dedicated to building impactful, user-friendly solutions. My work spans machine learning, web and mobile development, cybersecurity, and real-time integrations.
 
-## 🔭 Current Projects
-- **Audio Deepfake Detection System** - Using ML to detect AI-generated voices, with Python, CNN, and RNN.
-- **Events Mobile App** - A dynamic app for event organization.
-- **Mapbox Integration** - Implementing real-time maps with Mapbox for an Ionic Angular project.
+## 🚀 Featured Projects
+- 🎙️ **Audio Deepfake Detection System**  
+  Detecting AI-generated voices using Python, MFCC/Mel-spectrograms, CNN & RNN models.  
+- 📍 **Events Mobile App**  
+  A sleek Ionic-based app for organizing and discovering events.  
+- 🗺️ **Mapbox Integration**  
+  Real-time map features in an Ionic Angular app with Mapbox API.  
+- 🍕 [**Pizza Shop Website**](https://eminent-michael.github.io/pizza-shop-website/)  
+  A responsive e-commerce site for a fictional pizza shop built with HTML, CSS & JavaScript.  
+- 💳 [**PressPay**](https://presspay.netlify.app/)  
+  A simple and clean fintech web app UI built with React.  
+- 🌍 [**LearnSpeakly**](https://learnspeakly.netlify.app/)  
+  A platform for language and culture learning with self-paced and live sessions.
 
-## 🌱 Skills & Tools
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: FastAPI, Angular, Firebase
-- **Machine Learning**: TensorFlow, Scikit-Learn, Librosa
-- **Databases**: PostgreSQL, Firebase Firestore
+## 🛠️ Skills & Tools
+- **Languages**: Python, JavaScript, SQL  
+- **Frameworks & Libraries**: FastAPI, Angular, React, Firebase  
+- **Machine Learning**: TensorFlow, Scikit-learn, Librosa  
+- **Databases**: PostgreSQL, Firebase Firestore, Realtime DB  
+- **Other Tools**: Git, Netlify, Mapbox, Figma
 
-## 📈 Ongoing Learning
-- Exploring new cybersecurity techniques to increase awareness on school campuses.
-- Enhancing web app deployment skills with FastAPI and Angular.
+## 📚 Currently Learning
+- Advanced cybersecurity strategies for campus awareness projects  
+- Scalable app deployment using FastAPI, Docker, and CI/CD pipelines  
+- Performance optimization in ML models and frontend frameworks  
 
 ---
 
-You can adjust this to better suit your current projects or focus areas. Let me know if you'd like additional sections or specific formatting!
+🌐 Let’s build something great. Open to collaboration, feedback, and tech chats!
