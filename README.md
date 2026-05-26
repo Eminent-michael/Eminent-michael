@@ -1,4 +1,4 @@
-# Hi, I'm Olanshile Michael 👋
+# Hi, I'm Afolabi Michael 👋
 
 Full-stack developer with a frontend focus — building production-grade web and mobile apps across fintech, logistics, education, and marketplace platforms.
 
