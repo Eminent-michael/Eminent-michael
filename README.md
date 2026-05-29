@@ -90,5 +90,5 @@ Key features: responsive layout, early access onboarding, feature showcase, perf
 
 Portfolio: [afolabimichael.netlify.app](https://afolabimichael.netlify.app)
 GitHub: [Eminent-Michael](https://github.com/Eminent-Michael)
-Email: afolabimichael98@gmail.com
-LinkedIn: _(coming soon)_
+Email: michaelafolab@gmail.com
+LinkedIn: https://www.linkedin.com/in/afolabi-michael-3aba331a0
