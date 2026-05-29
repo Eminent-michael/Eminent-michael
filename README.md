@@ -2,8 +2,6 @@
 
 Full-stack developer with a frontend focus — building production-grade web and mobile apps across fintech, logistics, education, and marketplace platforms.
 
-I'm open to full-time roles and freelance engagements.
-
 ---
 
 ## What I work with
